@@ -4,3 +4,15 @@ to the Internet. IPv4 internet addresses account for 4.3 billion devices in the 
 
 What is ICANN and how do they contribute to the global internet?
 The Internet Corporation for Assigned Names and Numbers (ICANN) is an internationally organized, non-profit corporation that has responsibility for Internet Protocol (IP) address space allocation, protocol identifier assignment, generic (gTLD) and country code (ccTLD) Top-Level Domain name system management
+
+TCP/IP:
+What is the responsibility of TCP/IP?  a network protocol that defines the details of how data is sent and received through network adapters, hubs, switches, routers and other network communications hardware. 
+
+Why are layers important to changing technology? Having layers keeps you from having to change the entire program to make changes
+What types of applications run on the "application" layer? SMTP,FTP,HTTP,POP3,IMAP4,SNMP
+
+Internet Security:
+What is HTTP and how does it support the client-server model? Hyper Text Transfer Protocol is protocol that is used to type on the internet. requests are initiated by the recipient, usually the Web browser.Explain the protocols that secure HTTP uses to protect data
+
+Explain the protocols that secure HTTP uses to protect data. It uses TLS protocol to encrypt communications.
+ 
